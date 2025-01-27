@@ -14,8 +14,8 @@ const figtree = Figtree({
 });
 
 export const metadata: Metadata = {
-  title: "IntentJs",
-  description: "IntentJs is a framework for building web applications.",
+  title: "SmartBridgeAPI",
+  description: "SmartBridgeAPI",
 };
 
 export default function RootLayout({
